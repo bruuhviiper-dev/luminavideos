@@ -159,7 +159,7 @@
     </div>
 
     <!-- Right Sidebar (Comments & Related) TikTok Style -->
-    <div class="fixed top-0 bottom-0 right-0 w-full xl:w-[400px] bg-tubi-card border-l border-theme z-50 flex flex-col shadow-2xl transition-transform duration-300 transform xl:translate-x-0"
+    <div class="fixed top-16 bottom-16 md:bottom-0 right-0 w-full xl:w-[400px] bg-tubi-card border-l border-theme z-50 flex flex-col shadow-2xl transition-transform duration-300 transform xl:translate-x-0"
          :class="commentsOpen ? 'translate-x-0' : 'translate-x-full'">
         
         <!-- Sidebar Header -->
